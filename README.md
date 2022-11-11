@@ -10,12 +10,10 @@
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueLonardoniVarago&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
-<br/>
-  
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"
-       height="40em" width="50em"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40em" width="50em"/>
+       height="30em" width="30em"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30em" width="30em"/>
   </div>
  
 <hr/>
