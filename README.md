@@ -11,4 +11,10 @@
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueLonardoniVarago&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
  
+ <div>
+  <a href="https://www.linkedin.com/in/henrique-lonardoni-varago-212140223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
   
+  <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" alt="Gmail"/></a>
+  </div>
+  
+  <hr/>
