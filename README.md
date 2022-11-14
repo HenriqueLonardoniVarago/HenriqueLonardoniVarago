@@ -2,7 +2,7 @@
 
 
 - 🔎  I’m currently searching a job
-- 📖  I’m currently learning HTML5, CSS3
+- 📖  I’m currently learning HTML5, CSS3 and JS
 
 <div align="center">
   <a href="https://github.com/HenriqueLonardoniVarago">
