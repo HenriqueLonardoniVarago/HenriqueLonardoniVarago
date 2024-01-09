@@ -3,8 +3,6 @@
 
 - 🔎  I’m currently searching a job
 - 📖  I’m currently learning HTML5, CSS3 and JS
-- 📜  My Curriculum Vitae: file:///C:/Users/Robson/OneDrive/Documentos/CV/Curriculum%20Vitae.pdf
-- 📜 My Curriculum Vitae in English: file:///C:/Users/Robson/OneDrive/Documentos/CV/English%20Curriculum%20Vitae.pdf
 
 <div align="center">
   <a href="https://github.com/HenriqueLonardoniVarago">
